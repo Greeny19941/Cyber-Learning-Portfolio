@@ -18,5 +18,5 @@ It is a study journal and portfolio of conceptual notes, commands used (no solut
 I use this repo to show practical learning and to demonstrate that I apply knowledge, not just aim for exam passes.
 
 ## Contact
-Profile: https://github.com/<Greeny19941>  
-LinkedIn: https://www.linkedin.com/in/<shaun-green-388103177>
+Profile: [https://github.com/<Greeny19941>  ](https://github.com/Greeny19941/)
+LinkedIn: [https://www.linkedin.com/in/<shaun-green-388103177>](https://www.linkedin.com/in/shaun-green-388103177/)
