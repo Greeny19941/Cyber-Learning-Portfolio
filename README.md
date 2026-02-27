@@ -11,7 +11,7 @@ It is a study journal and portfolio of conceptual notes, commands used (no solut
 ## Structure
 - `Sec0/` — foundational rooms (Linux, networking, basics)
 - `Sec1/` — introductory security (scanning, enumeration, privilege escalation)
-- `assets/` — diagrams and non-sensitive images
+- `screenshots/` — diagrams and non-sensitive images
 
 ## About me
 9 years in IT. Recent certifications: CompTIA A+, ITIL 4, Microsoft AZ-900, SC-900, AI-900, ISC² CC.  
