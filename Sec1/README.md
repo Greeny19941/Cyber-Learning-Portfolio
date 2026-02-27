@@ -1,2 +1,2 @@
-# Sec0 Notes
-Notes from the TryHackMe Sec0 path.
+# Sec1 Notes
+Notes from the TryHackMe Sec1 path.
