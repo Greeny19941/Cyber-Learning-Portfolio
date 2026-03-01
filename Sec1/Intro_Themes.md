@@ -1,4 +1,4 @@
-# TryHackMe — SEC1 Intro Themes: Attack / Defence / Social Media
+# TryHackMe — SEC1 Intro Labs: Offensive Security Intro / Defensive Security Intro / Search Skills
 
 ## Section: Attack
 ### Tools & Commands Learned
