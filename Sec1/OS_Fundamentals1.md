@@ -1,6 +1,8 @@
 # TryHackMe - Linux Fundamentals Part 1/Windows Fundamentals 1
 
-## 🐧 Linux Fundamentals 1 - Key Learnings
+## 🐧 Linux Fundamentals 1 
+
+### Key Learnings
 
 - **echo** — outputs text to the terminal. Although straightforward, I wasn’t sure what its purpose would be in a working environment at first. After some reflection, I realised I’ve seen it used in scripts at work for logging or simple checks — which makes more sense now. Using **quotations** was also a helpful reminder for handling strings with spaces.  
 - **whoami** — determines which user is currently logged in (similar to Windows). Simple, but useful for confirming user context when running commands or troubleshooting permissions.  
@@ -27,7 +29,7 @@ There was a lot to absorb, especially around shell operators and file redirectio
 
 Overall, this was a strong introduction — it reminded me how transferable some of my existing IT knowledge is, while also showing how much more efficient Linux can be once you understand its structure and syntax.
 
-## 🪟 Windows Fundamentals Part 1
+## 🪟 Windows Fundamentals 1
 
 ### Key Learnings
 I felt generally comfortable with this one given my experience with Windows, but I was introduced to a few new concepts such as **ADS (Alternate Data Streams)** — how files can contain more than one data stream within **NTFS**, and how some malware writers have used this to hide malicious data.  
