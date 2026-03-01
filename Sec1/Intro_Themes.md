@@ -1,6 +1,6 @@
 # TryHackMe — SEC1 Intro Labs: Offensive Security Intro / Defensive Security Intro / Search Skills
 
-## Section: Attack
+## Section: Offensive
 ### Tools & Commands Learned
 - **`dirb`** – basic web directory brute-forcing to discover hidden pages.
 - **`cat`** – viewing file contents on Linux.
@@ -14,7 +14,7 @@
 
 ---
 
-## Section: Defence
+## Section: Defensive 
 ### Concepts Introduced
 - **CVE (Common Vulnerabilities and Exposures)** – encyclopaedia of known security vulnerabilities.  
   - Useful starting point when researching exploits; some details can be very technical.
@@ -22,7 +22,7 @@
 
 ---
 
-## Section: Search & Recon / Social Media
+## Section: Search Skills
 ### Browser Search Techniques
 - **Exact phrase** `"..."` – returns pages with the exact text.  
 - **`site:`** – restrict search to a specific domain.  
