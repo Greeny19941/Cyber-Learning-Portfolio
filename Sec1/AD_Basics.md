@@ -5,7 +5,11 @@ This was another room where much of the content has already been reinforced thro
 
 - **Deleted objects protection** — common knowledge, though not something I encounter often day-to-day.  
 - **Delegation of OUs** — not something I’ve personally managed before, but the room gave me confidence that I could handle it effectively in a real environment. Resetting Sophie’s password using another account was a practical exercise that solidified this understanding.  
-- **PowerShell password reset** — possibly the first time I’ve done this via PowerShell. It’s a simple command but gives more scope for experimenting and understanding both administrative and security implications (attacking/defensive perspectives).  
+- **PowerShell password reset** — possibly the first time I’ve done this via PowerShell. It’s a simple command but gives more scope for experimenting and understanding both administrative and security implications (attacking/defensive perspectives).
+![download](https://github.com/user-attachments/assets/32d39ba3-8a80-4029-8296-04e3e8374757)
+
+- ![download](https://github.com/user-attachments/assets/ca7d5dbb-2c85-45c6-a3ff-d0eb340b70fc)
+
 
 ### Group Policy & Domain Management
 We created **OUs** and moved computers between them — something I already do at work — followed by group policy configuration.  
@@ -15,6 +19,10 @@ We created **OUs** and moved computers between them — something I already do a
   - Enforce **auto-lock after 300 seconds**  
 
 I’ve done similar configuration work previously at Netbuilder, but this was a great hands-on refresher.
+
+![download](https://github.com/user-attachments/assets/19d901d3-2080-4266-9f71-c2b9798ecb94)
+![download](https://github.com/user-attachments/assets/b35ad577-ce32-4f48-ab0f-80c0256f0d46)
+
 
 ### Kerberos & Authentication
 The lab introduced **Kerberos**, which included terminology I hadn’t explored before, such as:  
