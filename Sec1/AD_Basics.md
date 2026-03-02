@@ -6,8 +6,11 @@ This was another room where much of the content has already been reinforced thro
 - **Deleted objects protection** — common knowledge, though not something I encounter often day-to-day.  
 - **Delegation of OUs** — not something I’ve personally managed before, but the room gave me confidence that I could handle it effectively in a real environment. Resetting Sophie’s password using another account was a practical exercise that solidified this understanding.  
 - **PowerShell password reset** — possibly the first time I’ve done this via PowerShell. It’s a simple command but gives more scope for experimenting and understanding both administrative and security implications (attacking/defensive perspectives).
+
+- *PowerShell scripts ran:
 ![download](https://github.com/user-attachments/assets/32d39ba3-8a80-4029-8296-04e3e8374757)
 
+- *End result of password change and request to change at first log-on.
 - ![download](https://github.com/user-attachments/assets/ca7d5dbb-2c85-45c6-a3ff-d0eb340b70fc)
 
 
@@ -20,7 +23,10 @@ We created **OUs** and moved computers between them — something I already do a
 
 I’ve done similar configuration work previously at Netbuilder, but this was a great hands-on refresher.
 
+- *Group Policy Object, which was then linked to the Marketing OU (where our dummy user, Mark was present)
 ![download](https://github.com/user-attachments/assets/19d901d3-2080-4266-9f71-c2b9798ecb94)
+
+-* When RDPing onto a VM, I tried to open Control Panel and was expectedly met with this error:
 ![download](https://github.com/user-attachments/assets/b35ad577-ce32-4f48-ab0f-80c0256f0d46)
 
 
