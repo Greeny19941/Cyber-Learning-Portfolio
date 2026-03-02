@@ -1,5 +1,3 @@
-# TryHackMe - Linux Fundamentals Part 1
-
 ## 🐧 Linux Fundamentals 1 
 
 ### Key Learnings
