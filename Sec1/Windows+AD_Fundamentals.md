@@ -10,6 +10,7 @@ Other commands and tools such as `%windir%` and `lusrmgr.msc` were already famil
 ### Reflection
 This module reinforced knowledge I already had while introducing subtle but important Windows internals I hadn’t encountered before. It was a good reminder that even with familiar systems, there’s always something new to uncover — especially when it comes to **security implications**.
 
+
 ## 🪟 Windows Fundamentals Part 2
 
 ### Key Learnings
@@ -40,3 +41,59 @@ This lab expanded on familiar Windows tools and introduced a few new insights th
 This lab was more in-depth than **Windows Fundamentals 1**, but still within my comfort zone. It provided useful reinforcement of Windows internals and introduced command-line alternatives to common GUI operations — something I’d like to explore further for efficiency.  
 
 Overall, it felt like a strong continuation of the fundamentals, reinforcing both **system administration awareness** and **troubleshooting skills** I use regularly in my IT support role.
+
+
+# Windows Fundamentals 3
+
+## Key Learnings
+
+- **Windows Updates**  
+  - Revisited Patch Tuesdays (typically the 2nd week of each month).  
+  - Reinforced the importance of keeping systems patched regularly.
+
+- **Windows Security / Virus & Threat Protection**  
+  - Controlled Folder Access: protects certain files/folders from unauthorized apps.  
+  - Adding exclusions in Windows Defender Firewall can reduce false positives.  
+
+- **Windows Defender Firewall**  
+  - Recommended to keep enabled.  
+  - Command to open: `WF.msc`.  
+  - Used for enabling/disabling apps or features securely.
+
+- **Microsoft Defender SmartScreen**  
+  - Protects against malware, phishing, and untrusted applications.  
+  - Found in *App & Browser Control* settings.  
+  - Keeping default exploit protection is advised unless fully confident.
+
+- **Device Security**  
+  - Core Isolation & Memory Integrity: virtualisation-based protections.  
+  - Usually left on; changing requires 100% confidence.  
+  - TPM (Trusted Platform Module) supports BitLocker drive encryption.  
+
+- **Volume Shadow Copy Service (VSS)**  
+  - Creates system restore points (System Restore).  
+  - Useful for recovery after malware attacks, though some malware tries to disable/delete them.  
+  - Conceptually overlaps with practices covered in CompTIA A+ Core 1 and ISC² CC.  
+
+---
+
+## Commands / Settings
+
+| Feature | Command / Path | Notes |
+|---------|----------------|-------|
+| Windows Defender Firewall | `WF.msc` | Enables/disables firewall apps and features |
+| Core Isolation / Memory Integrity | Device Security → Core Isolation | Recommended to leave on default |
+| TPM / BitLocker | BitLocker Management | Encrypt full drives, works with TPM |
+| System Restore / VSS | Control Panel → System → System Protection | Used to create or restore restore points |
+
+---
+
+## Reflection
+
+This lab reinforced **security-first thinking** in Windows environments.  
+Many of the concepts (TPM, BitLocker, System Restore) were familiar, but TryHackMe emphasized **realistic threat scenarios**, such as malware targeting VSS or protected folders.  
+
+Key takeaways:  
+- Always keep **default security settings** unless fully confident.  
+- Understand the tools and their purposes, even if you rarely interact with them.  
+- Hands-on exposure (controlled folder access, firewall rules, SmartScreen) is invaluable for bridging theoretical knowledge with practical application. 
