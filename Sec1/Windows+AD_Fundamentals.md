@@ -43,9 +43,9 @@ This lab was more in-depth than **Windows Fundamentals 1**, but still within my 
 Overall, it felt like a strong continuation of the fundamentals, reinforcing both **system administration awareness** and **troubleshooting skills** I use regularly in my IT support role.
 
 
-# 🪟 Windows Fundamentals 3
+## 🪟 Windows Fundamentals 3
 
-## Key Learnings
+### Key Learnings
 
 - **Windows Updates**  
   - Revisited Patch Tuesdays (typically the 2nd week of each month).  
@@ -77,7 +77,7 @@ Overall, it felt like a strong continuation of the fundamentals, reinforcing bot
 
 ---
 
-## Commands / Settings
+### Commands / Concepts
 
 | Feature | Command / Path | Notes |
 |---------|----------------|-------|
@@ -88,7 +88,7 @@ Overall, it felt like a strong continuation of the fundamentals, reinforcing bot
 
 ---
 
-## Reflection
+### Reflection
 
 This lab reinforced **security-first thinking** in Windows environments.  
 Many of the concepts (TPM, BitLocker, System Restore) were familiar, but TryHackMe emphasized **realistic threat scenarios**, such as malware targeting VSS or protected folders.  
