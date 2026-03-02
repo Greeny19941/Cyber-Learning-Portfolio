@@ -15,7 +15,7 @@ This module reinforced knowledge I already had while introducing subtle but impo
 ### Key Learnings
 This lab expanded on familiar Windows tools and introduced a few new insights that I hadn’t fully explored before.  
 
-- **System Configuration (msconfig)** — mostly familiar, but this reinforced that it’s used for managing startup applications and boot settings. I also learned about using **shell:startup** for managing startup apps on Windows Server OSs.  
+- **System Configuration (msconfig)** — mostly familiar, but this reinforced that it’s used for managing startup applications and boot settings. I also learned about using **shell:startup** for managing startup apps on Windows Server OSs, though I have used this utility before.  
 - Explored the **Tools** tab in System Configuration — an area I rarely visit — and found it helpful for accessing administrative utilities directly.  
 - The lab focused heavily on **command-line alternatives** for common GUI tools. While I’m likely to continue using the GUI for ease of use, it’s good to know the command equivalents for efficiency and scripting.  
 
