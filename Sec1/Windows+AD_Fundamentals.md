@@ -43,7 +43,7 @@ This lab was more in-depth than **Windows Fundamentals 1**, but still within my 
 Overall, it felt like a strong continuation of the fundamentals, reinforcing both **system administration awareness** and **troubleshooting skills** I use regularly in my IT support role.
 
 
-# Windows Fundamentals 3
+# 🪟 Windows Fundamentals 3
 
 ## Key Learnings
 
