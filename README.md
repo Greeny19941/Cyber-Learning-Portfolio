@@ -1,6 +1,8 @@
 # TryHackMe Learning Journal
 
 TryHackMe Profile: [https://tryhackme.com/p/sgreen1994000]
+[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=7048198" style='border:none;'></iframe>]
+
 
 This repository documents my cybersecurity learning journey through TryHackMe (Sec0 and Sec1 paths).  
 It is a study journal and portfolio of conceptual notes, commands used (no solutions), and diagrams.
