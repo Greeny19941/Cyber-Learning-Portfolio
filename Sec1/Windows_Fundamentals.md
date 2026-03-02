@@ -1,7 +1,7 @@
 ## 🪟 Windows Fundamentals 1
 
 ### Key Learnings
-I felt generally comfortable with this one given my experience with Windows, but I was introduced to a few new concepts such as **ADS (Alternate Data Streams)** — how files can contain more than one data stream within **NTFS**, and how some malware writers have used this to hide malicious data.  
+I felt generally comfortable with this one given my experience with Windows, but I was introduced to a new concept called **ADS (Alternate Data Streams)** — how files can contain more than one data stream within **NTFS**, and how some malware writers have used this to hide malicious data.  
 
 I wasn’t previously aware of ADS since it doesn’t display to users by default, but I learned that **PowerShell** can be used to view it.  
 
