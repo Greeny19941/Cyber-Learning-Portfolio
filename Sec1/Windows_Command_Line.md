@@ -1,4 +1,4 @@
-# 🪟 Windows Command Line (TryHackMe)
+# 🪟 Windows Command Line Lab
 
 ## Basic System Information
 
