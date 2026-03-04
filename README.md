@@ -1,7 +1,6 @@
 # TryHackMe Learning Journal
 
 TryHackMe Profile: [https://tryhackme.com/p/sgreen1994000]
-[<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=7048198" style='border:none;'></iframe>]
 
 
 This repository documents my cybersecurity learning journey through TryHackMe.  
