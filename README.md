@@ -4,7 +4,7 @@ TryHackMe Profile: [https://tryhackme.com/p/sgreen1994000]
 [<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=7048198" style='border:none;'></iframe>]
 
 
-This repository documents my cybersecurity learning journey through TryHackMe (Sec0 and Sec1 paths).  
+This repository documents my cybersecurity learning journey through TryHackMe.  
 It is a study journal and portfolio of conceptual notes, commands used (no solutions), and diagrams.
 
 ## Purpose
@@ -13,7 +13,6 @@ It is a study journal and portfolio of conceptual notes, commands used (no solut
 - Link to on LinkedIn as a learning artefact
 
 ## Structure
-- `Sec0/` — foundational rooms (Linux, networking, basics)
 - `Sec1/` — introductory security (scanning, enumeration, privilege escalation)
 - `screenshots/` — diagrams and non-sensitive images
 
