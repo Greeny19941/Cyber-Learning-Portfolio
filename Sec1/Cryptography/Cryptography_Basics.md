@@ -1,4 +1,4 @@
-# 🔐 Cryptography Basics (TryHackMe)
+# 🔐 Cryptography Basics
 
 ## Overview
 This room provided an overview of cryptography and its importance in securing communication. While we rarely interact directly with cryptography in daily operations, it underpins the **CIA Triad** — ensuring confidentiality, integrity, and availability.
