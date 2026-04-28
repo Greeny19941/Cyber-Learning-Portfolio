@@ -1,4 +1,4 @@
-# What is Networking? – TryHackMe Write-Up
+# What is Networking? 
 
 ## Overview
 
