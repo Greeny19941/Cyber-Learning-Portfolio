@@ -16,7 +16,7 @@ It is a study journal and portfolio of conceptual notes, commands used (no solut
 - `screenshots/` — diagrams and non-sensitive images
 
 ## About me
-9 years in IT. Recent certifications: CompTIA A+, ITIL 4, Microsoft AZ-900, SC-900, AI-900, ISC² CC.  
+9 years in IT Support. Recent certifications: CompTIA Network & A+, ITIL 4, Microsoft AZ-900, SC-900, AI-900, ISC² CC.  
 I use this repo to show practical learning and to demonstrate that I apply knowledge, not just aim for exam passes.
 
 ## Contact
