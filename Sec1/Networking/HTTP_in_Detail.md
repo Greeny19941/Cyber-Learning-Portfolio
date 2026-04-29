@@ -118,7 +118,7 @@ The lab included hands-on interaction with HTTP requests, allowing observation o
 - status codes  
 
 This helped reinforce how web communication functions in practice.
-![POST_Request](screenshots/THMHTTPinDetail.png)
+![POST_Request](../screenshots/THMHTTPinDetail.png)
 
 ---
 
