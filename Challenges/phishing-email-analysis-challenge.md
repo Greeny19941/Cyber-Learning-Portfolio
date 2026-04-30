@@ -7,6 +7,7 @@ This challenge involved analysing a series of 10 simulated emails under timed co
 - Completed with high accuracy
 - No lives lost during the challenge
 - Demonstrated consistent identification of phishing indicators under time pressure
+![Phishing Challenge](Screenshots/phishingchallenge.png)
 
 ## Key Phishing Indicators Identified
 
